@@ -1,1 +1,1 @@
-sicp clojure
+kata + stepic
